@@ -1,0 +1,5 @@
+node_modules/
+web_export/
+*.love
+*.DS_Store
+
